@@ -1,2 +1,2 @@
-# AI-Pulsar
-Verifying Pulsar candidates using machine learning
+# pulsarAI
+Verifying Pulsar candidates using machine learning techniques. 
