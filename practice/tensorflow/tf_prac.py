@@ -68,7 +68,6 @@ feature_columns = []
 for header in ['meanProf', 'stDev', 'exKurt', 'skew', 'meanDM', 'stDevDM', 'exKurtDM', 'skewDM']:
   feature_columns.append(feature_column.numeric_column(header))
 
-
 feature_layer = tf.keras.layers.DenseFeatures(feature_columns)
 
 batch_size = 64
