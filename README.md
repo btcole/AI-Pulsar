@@ -6,4 +6,5 @@ Number of output arguments = 1 (a binary yes as 1 and no as 0)
 Data used to train the module = 70%
 Test data = 30%
 
-Accuracy = 98.##
+Accuracy = 98.01%
+
